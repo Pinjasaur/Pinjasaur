@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy, I&rsquo;m Paul 👋
+
+I hail from Minneapolis, MN. Land of road salt and a regional burger dubbed &ldquo;Jucy Lucy.&rdquo; 🍔
+
+- 🔭 I’m currently working on https://github.com/mattermost/focalboard.
+- 💬 Ask me about bikes, coffee, and Oxford commas.
+- 📫 How to reach me: p@uly.io
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I've only owned manual transmission vehicles. It's really only impressive in the USA.
 
 <!--
 **Pinjasaur/Pinjasaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
