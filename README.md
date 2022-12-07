@@ -2,7 +2,6 @@
 
 I hail from Minneapolis, MN. Land of road salt and a regional burger dubbed &ldquo;Jucy Lucy.&rdquo; 🍔
 
-- 🔭 I’m currently working on https://github.com/mattermost/focalboard.
 - 💬 Ask me about bikes, coffee, and Oxford commas.
 - 📫 How to reach me: p@uly.io
 - 😄 Pronouns: he/him/his
